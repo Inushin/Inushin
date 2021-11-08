@@ -1,9 +1,9 @@
 ### Hi there I am Aitor Sobera, AKA Inushin👋
+- 🙋🏻‍♂️ 27 guy from Spain.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a curious Developer Student
-- 🙋🏻‍♂️ 27 guy from Spain.
 - 👨‍💻 I’m currently working on mobile development technologies like **Android, Typescript, Angular, Ionic, Symfony, DOCKER, AWS, etc.**
 - :test_tube: Knowledge of **Javascript, Java, SQL, NOSQL, PHP, AJAX, Linux and others.**
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
