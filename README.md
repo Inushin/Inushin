@@ -16,21 +16,25 @@
 
 ### Languages I use 📑
 
-![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white)
+
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brown?style=flat-square&logo=mongodb)
-![MYSQL](https://img.shields.io/badge/-MYSQL-grey?style=flat-square&logo=mysql)
+![C#](https://img.shields.io/badge/-Csharp-purple?style=flat-square&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![VisualBasic .NET](https://img.shields.io/badge/-Visualbasic-05122A?)
 
 
 ### Tools and Others 🛠 
 
 ![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-white?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brown?style=flat-square&logo=mongodb)
+![MYSQL](https://img.shields.io/badge/-MYSQL-grey?style=flat-square&logo=mysql)
 ![Symfony](https://img.shields.io/badge/-SYMFONY-grey?style=flat-square&logo=symfony)
 ![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat-square&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
