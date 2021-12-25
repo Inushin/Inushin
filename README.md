@@ -8,7 +8,7 @@
 - :test_tube: Knowledge of **Javascript, Java, SQL, NOSQL, PHP, AJAX, Linux and others.**
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :speech_balloon: Interested in **cybersecurity**!
+- :speech_balloon: Interested in **cybersecurity, VR and Unity**!
 - ⚡ Fun fact: reading lover 🥰
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorsobera@gmail.com)
