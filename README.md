@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a curious Development Student 👨‍💻
-- 💻 I’m currently working on mobile development technologies like **Android, Typescript, Angular, Ionic, Symfony, DOCKER, AWS, etc.**
+- 💻 I’m currently working on mobile and game development technologies like **Unity, C#, Android, Typescript, Angular, Ionic, Symfony, DOCKER, AWS, etc.**
 - :test_tube: Knowledge of **Javascript, Java, SQL, NOSQL, PHP, AJAX, Linux and others.**
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
