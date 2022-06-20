@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a curious Development Student 👨‍💻
-- 💻 I’m currently working on mobile and game development technologies like **Unity, C#, Android, Typescript, Angular, Ionic, Symfony, DOCKER, AWS, etc.**
-- :test_tube: Knowledge of **Javascript, Java, SQL, NOSQL, PHP, AJAX, Linux and others.**
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💻 Working as a Full-Stack developer with **ANGULAR, POSTGRESQL, SEQUELIZE, DOCKER, NODEJS and EXPRESS**
+- :test_tube: Knowledge of **Javascript/Typescript, Java, C#, SQL, NOSQL, PHP, AJAX, Linux and others.**
+- 📚 Full-Stack dev with the eyes poiting to Backend 👀
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :speech_balloon: Interested in **cybersecurity, VR and Unity**!
+- :speech_balloon: Interested in **Cybersecurity, JS/TS, Backend and VR 🤝 Unity**!
 - ⚡ Fun fact: reading lover 🥰
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorsobera@gmail.com)
