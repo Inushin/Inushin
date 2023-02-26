@@ -1,10 +1,10 @@
 ### Hi there I am Aitor Sobera, AKA Inushin👋
-- 🙋🏻‍♂️ 28 years oldy guy from Spain.
+- 🙋🏻‍♂️ 28 years old guy from Spain.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a curious Development Student 👨‍💻
-- 💻 Working as a Full-Stack developer with **ANGULAR, POSTGRESQL, SEQUELIZE, DOCKER, NODEJS and EXPRESS**
+## I'm a curious Full-Stack Developer 👨‍💻
+- 💻 Working with **ANGULAR, POSTGRESQL, SEQUELIZE, DOCKER, NODEJS and EXPRESS**
 - :test_tube: Knowledge of **Javascript/Typescript, Java, C#, SQL, NOSQL, PHP, AJAX, Linux and others.**
 - 📚 Full-Stack dev with the eyes poiting to Backend 👀
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
