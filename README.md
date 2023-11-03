@@ -1,4 +1,4 @@
-### Hi there I am Aitor Sobera, AKA Inushin👋
+### Hi there I am Aitor Sobera, AKA Inushin 👋
 - 🙋🏻‍♂️ 28 years old guy from Spain.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -14,16 +14,23 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorsobera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-sobera-ortiz-de-z%C3%A1rate-745aa66b/)
 
-### Languages I use 📑
+
+### Languages I use daily 💛
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+
+### Languages I have used 📑
 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/-Csharp-purple?style=flat-square&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![VisualBasic .NET](https://img.shields.io/badge/-Visualbasic-05122A?)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat/square&logo=python&logoColor=ffdd54)
 
 
 ### Tools and Others 🛠 
